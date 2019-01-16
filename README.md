@@ -1,6 +1,6 @@
 # stack-trace-test
 
-An example of parsing a stack trace in JavaScript.
+An example of parsing a stack trace in JavaScript using [StackTrace.js](https://www.stacktracejs.com/#!/docs/error-stack-parser).
 
 ## Pre-requisites
 
